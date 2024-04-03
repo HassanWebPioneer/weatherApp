@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_sun.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_sun.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_socialicon_google.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_socialicon_google.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_socialicon_twitter.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_socialicon_twitter.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_imagecard.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_imagecard.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_vector.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_vector.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_mappic.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_mappic.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.weatherapp-main-31:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_background.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_background.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_mail.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_mail.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_lock.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_lock.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_photo.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_photo.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_socialicon_facebook.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_socialicon_facebook.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/drawable-mdpi_app_assets_images_calendar.png.flat",
+        "source": "com.weatherapp-react-25:/drawable-mdpi/app_assets_images_calendar.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.weatherapp-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

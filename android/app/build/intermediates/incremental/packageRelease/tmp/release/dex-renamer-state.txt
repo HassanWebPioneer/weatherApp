@@ -1,0 +1,4 @@
+#Wed Apr 03 19:00:48 EET 2024
+base.0=D\:\\mobile-apps\\WeatherApp\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
